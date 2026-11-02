@@ -2,9 +2,6 @@
 ## Conditions initiales 
 Utilisation de la bibliothèque 'GALPY'
 
-<<<<<<< HEAD
-Blablabla1
-=======
 ## Conditions aux limites 
 - Étape 1 : conditions périodiques
 - Étape 2 : condition isolées
@@ -22,4 +19,3 @@ Blablabla1
 > - Euler semi-explicite (*tests*)
 > - Leapfrog
 > - Kick-Drift-Kick (*possibilité d'utiliser un pas de temps variable*)
->>>>>>> c1675f5 (Principe resol)
